@@ -1,0 +1,179 @@
+[33mcommit 10bbd61d5738467adcf72ad32a3d16e74ebaa491[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 18:54:48 2020 +0200
+
+    Les consignes
+
+[33mcommit 21b065b96daf13a023e656d7b224894f6165d3fb[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 18:26:26 2020 +0200
+
+    affichr tab pixel pour vérifier
+
+[33mcommit fc88929ce37cfc108ad58312585a98b27a1382de[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 18:10:24 2020 +0200
+
+    elargir 6 le tableau fonctionne git add .! mais confond hauteur et largeur
+
+[33mcommit 1da6275e5108171cfd84004873421a06218f96ed[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 18:04:25 2020 +0200
+
+    elargir5 il faut inverser tab et temp
+
+[33mcommit 95a0c55ba9bc027fd6575e3fe0f44e2a09183e47[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 16:11:16 2020 +0200
+
+    elargir 4 fonctionne avec des chiffres
+
+[33mcommit 5bdbc221315a5b37ec753b1da7af8b4e88d2b1bf[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 14:25:28 2020 +0200
+
+    Modulo pour indice 1/2 mais affectation est bancale
+
+[33mcommit d2a87553d4ea2daedd4a4e8f46bac36913f0c917[m
+Author: PM <moty.philippe@free.fr>
+Date:   Fri May 29 11:26:12 2020 +0200
+
+    elargir 3 inversion hauteur et largeur ????
+
+[33mcommit 8b7bf2d106bb50b3b5bcddb2c6d90c5aaa446f1d[m
+Author: 110111-1 <moty.philippe@free.fr>
+Date:   Fri May 29 08:28:52 2020 +0200
+
+    elargir 2
+
+[33mcommit e7267dae32367b1eb8829d2cf623b4b1b1e0fa35[m
+Author: 110111-1 <moty.philippe@free.fr>
+Date:   Fri May 29 07:38:56 2020 +0200
+
+    elargir 1
+
+[33mcommit 329da3e03dd7620b1e3946e13ac9ef7fcfd6803e[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 19:25:31 2020 +0200
+
+    v2
+
+[33mcommit a25c34f7018a75988f29eb3df8d099577e3a0b39[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 18:45:40 2020 +0200
+
+    tp2 a retravailler
+
+[33mcommit 87246f653744674355b687926cc5edcacf2bc3e9[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 18:37:30 2020 +0200
+
+    tp2 tab[][][] ne fonctionne pas ==> retour Pixel[][]
+
+[33mcommit 1281f429ea16319d1f02e8aecd9ac285baba2de1[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 18:12:41 2020 +0200
+
+    tp2 pas fini tp3 créé
+
+[33mcommit 94d096a236fd09ba568dc96d2ee0f39497f0e106[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 17:13:12 2020 +0200
+
+    v1
+
+[33mcommit c523256d87663fe715de5d313e68765a5ba0d3c4[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 16:47:04 2020 +0200
+
+    largeur hauteur inversées
+
+[33mcommit 4ff4e726e6c980f5bd819a176b7c61be9687dfb3[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 16:28:45 2020 +0200
+
+    TP2 elargir boucle fonctioonne avec des int
+
+[33mcommit aa3a5a764853f0c22a31c553da9024d30847cc99[m
+Author: PM <moty.philippe@free.fr>
+Date:   Thu May 28 11:13:12 2020 +0200
+
+    TP2 qestion 4 : elargir avec pixel beau mais ne fonctionne pas. tu passe maintenant par export et tab int[][][]
+
+[33mcommit bbef1edcd55b1b34e03db6744f198f7e4ac60e32[m
+Author: PM <moty.philippe@free.fr>
+Date:   Wed May 27 19:13:39 2020 +0200
+
+    question 4 a faire
+
+[33mcommit 5ecc221214dc15a68ba3dc3185e5bad0bdc075fd[m
+Author: PM <moty.philippe@free.fr>
+Date:   Tue May 26 19:20:49 2020 +0200
+
+    TP2 reste elargit-pensez class Pixel
+
+[33mcommit 5b632944c0e903a45af20c2f9498959f3001baac[m
+Author: PM <moty.philippe@free.fr>
+Date:   Tue May 26 16:34:00 2020 +0200
+
+    TP2 : Q1,2,3 ok reste la 4 et faire un menu pour enregistrer les modifications composante question 3
+
+[33mcommit 41f959862df742bb43d478af2cdcff7134e59462[m
+Author: PM <moty.philippe@free.fr>
+Date:   Tue May 26 15:11:02 2020 +0200
+
+    Bonne version tp1 et tp2 en cours
+
+[33mcommit 2858222e1e36048904f8ba60f9c8febb7bc041f2[m
+Author: PM <moty.philippe@free.fr>
+Date:   Tue May 26 14:51:46 2020 +0200
+
+    rectification TP1
+
+[33mcommit 1e2c732258f917a452f8beb8f50da4fb32d5cb45[m
+Author: PM <moty.philippe@free.fr>
+Date:   Mon May 25 19:49:04 2020 +0200
+
+    TP1 envoyé pour correction, TP2 question1 faite, question 2 en cours enr
+
+[33mcommit 2b99698905f6ba9ad52de4a4264c7c2f44bc6a6d[m
+Author: PM <moty.philippe@free.fr>
+Date:   Mon May 25 19:47:57 2020 +0200
+
+    TP1 envoyé pour correction, TP2 question1 faite, question 2 en cours
+
+[33mcommit 4d1d67d6d465300c0af13a54d5cb57df38ccc90e[m
+Author: PM <moty.philippe@free.fr>
+Date:   Sat May 23 19:05:14 2020 +0200
+
+    TP1 ok, TP2 à faire
+
+[33mcommit 7d2421dd4f756ae67190f8bbca7d3cf6a8f000e8[m
+Author: PM <moty.philippe@free.fr>
+Date:   Sat May 23 18:35:17 2020 +0200
+
+    Création de TP2 et TP1 renommer
+
+[33mcommit bbdf470a48acaaf6a5e5300929fd2bff2aef45e6[m
+Author: PM <moty.philippe@free.fr>
+Date:   Sat May 23 18:28:41 2020 +0200
+
+    Sauvegarde avant copie de tp1 risque de connerie
+
+[33mcommit bc4b799c3b5e0ff60e9bbe14001daa98601cd285[m
+Author: PM <moty.philippe@free.fr>
+Date:   Sat May 23 17:48:21 2020 +0200
+
+    TP1 sans conserver le path dans l'objet critique prof
+
+[33mcommit 5dfe90a66aa7606afa1d2d5c5eb7303ed5ba8ffb[m
+Author: PM <moty.philippe@free.fr>
+Date:   Wed May 20 09:52:45 2020 +0200
+
+    TP1 v2
+
+[33mcommit 3d564bbf42ba9b67386362adb77ebb98bd8b47fa[m
+Author: 110111-1 <moty.philippe@free.fr>
+Date:   Wed May 20 09:06:57 2020 +0200
+
+    TP1
